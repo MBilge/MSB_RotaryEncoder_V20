@@ -1,11 +1,10 @@
 /*
- * MSB_RotaryEncoder.cpp
+ * MSB_RotaryEncoder_V20.cpp
  * Dynamic speed full step Rotary Encoder library for Arduino
  * 
  * Modified by Mehmet S. Bilge October 2021    
- * Version 1.0
- * Unfortunelately switch does not stable. gives inital unwanted reading, couldnt find the reason
- * and reading switch is slow     
+ * Version 2.0
+ * 
  */
 
 
